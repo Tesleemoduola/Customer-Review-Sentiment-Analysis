@@ -94,9 +94,9 @@ The final model was deployed using Streamlit, enabling real-time sentiment analy
 
 ![Positive Sentiment Screenshot](image_2.jpg)
 
-![Neutral Sentiment Screenshot](image_4.jpg)
+![Neutral Sentiment Screenshot](image_3.jpg)
 
-![Negative Sentiment Screenshot](image_3.jpg)
+![Negative Sentiment Screenshot](image_4.jpg)
 
 
 ## Conclusion
