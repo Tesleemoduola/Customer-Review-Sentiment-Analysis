@@ -11,7 +11,7 @@
 - [Data Preprocessing](#data-preprocessing)
 - [Model Building](#model-building)
 - [Model Evaluation](#model-evaluation)
-- [Mode Deployment](#model-deployment)
+- [Model Deployment](#model-deployment)
 - [Conclusion](#conclusion)
 
 
@@ -92,7 +92,7 @@ of its robust performance compared to other models.
 ## Model Deployment
 The final model was deployed using Streamlit, enabling real-time sentiment analysis and providing easy accessibility for stakeholders.
 
-![Positive SentimentScreenshot](image_2.jpg)
+![Positive Sentiment Screenshot](image_2.jpg)
 
 ![Neutral Sentiment Screenshot](image_3.jpg)
 
