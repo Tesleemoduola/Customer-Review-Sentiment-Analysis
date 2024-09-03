@@ -10,7 +10,7 @@
 - [Data Source](#data-source)
 - [Data Preprocessing](#data-preprocessing)
 - [Model Building](#model-building)
-- [Model Evaluatio](#model-evaluation)
+- [Model Evaluation](#model-evaluation)
 - [Mode Deployment](#model-deployment)
 - [Conclusion](#conclusion)
 
@@ -86,7 +86,7 @@ providing a detailed view of the model's performance across different classes.
 ![Logistic Regression CM Screenshot](image_6.jpg)
 
 Logistic Regression was chosen for hyperparameter tuning and deployment after the training and evaluation because 
-of its robust performance compared other models.
+of its robust performance compared to other models.
 
 
 ## Model Deployment
