@@ -2,6 +2,8 @@
 
 ![Image of the Project](image_1.jpg)
 
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Objective](#project-objective)
@@ -11,6 +13,7 @@
 - [Model Evaluatio](#model-evaluation)
 - [Mode Deployment](#model-deployment)
 - [Conclusion](#conclusion)
+
 
 ## Project Overview
 At 10Alytics, I spearheaded the development of a sentiment analysis system for a leading e-commerce platform overwhelmed 
@@ -23,11 +26,13 @@ compared to other models. The model was seamlessly integrated into a user-friend
 enhancing sentiment classification accuracy by over 20% leading to a 15% increase in customer satisfaction and a 10% rise 
 in sales. The success of this implementation prompted the system's expansion to other product categories.
 
+
 ## Project Objective
 The aim of the project was to develop a robust sentiment analysis system for e-commerce product reviews, with a specific focus on the 
 Electronics category on Amazon. Utilizing advanced Data Science techniques, the goal was to create an end-to-end model capable 
 of extracting, preprocessing, analyzing, and visualizing customer sentiment from textual reviews. This solution will deliver valuable 
 insights to business stakeholders, enabling them to make data-driven decisions that enhance the overall customer experience.
+
 
 ## Data Source
 The data for this project was sourced from 10Alytics. The dataset comprises a collection of features, including:
@@ -39,6 +44,7 @@ The data for this project was sourced from 10Alytics. The dataset comprises a co
 - **Date Posted**: The date when the review was posted.
 This dataset provides a comprehensive view of customer feedback, which was instrumental in performing sentiment analysis and
 deriving actionable insights.
+
 
 ## Data Preprocessing
 Before feeding the dataset into the models, extensive data preprocessing was performed to ensure optimal performance. 
@@ -53,6 +59,7 @@ The preprocessing steps included:
                                were trained on a balanced dataset.
 These preprocessing steps were essential for preparing the data and enhancing the performance of the sentiment analysis models.
 
+
 ## Model Building
 In this project, the following models were utilized for sentiment analysis:
 - **Pre-trained Models**:
@@ -64,6 +71,7 @@ In this project, the following models were utilized for sentiment analysis:
   - Random Forest
   - Support Vector Machine (Linear)
  
+
  ## Model Evaluation
  Each model was evaluated using the following metrics:
 - **Accuracy**: The ratio of correctly predicted instances to the total instances.
@@ -76,8 +84,10 @@ providing a detailed view of the model's performance across different classes.
 ![Evaluation Metrics Screenshot](image_5.jpg)
 
 ![Logistic Regression CM Screenshot](image_6.jpg)
+
 Logistic Regression was chosen for hyperparameter tuning and deployment after the training and evaluation because 
 of its robust performance compared other models.
+
 
 ## Model Deployment
 The final model was deployed using Streamlit, enabling real-time sentiment analysis and providing easy accessibility for stakeholders.
@@ -87,6 +97,7 @@ The final model was deployed using Streamlit, enabling real-time sentiment analy
 ![Neutral Sentiment Screenshot](image_4.jpg)
 
 ![Negative Sentiment Screenshot](image_3.jpg)
+
 
 ## Conclusion
 The analysis successfully developed and deployed a model capable of processing customer reviews. The insights gained from this project 
