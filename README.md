@@ -92,7 +92,7 @@ of its robust performance compared other models.
 ## Model Deployment
 The final model was deployed using Streamlit, enabling real-time sentiment analysis and providing easy accessibility for stakeholders.
 
-![Positive Sentiment Screenshot](image_2.jpg)
+![Positive SentimentScreenshot](image_2.jpg)
 
 ![Neutral Sentiment Screenshot](image_3.jpg)
 
